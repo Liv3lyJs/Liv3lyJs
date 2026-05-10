@@ -2,7 +2,7 @@
 Graduate student at **Polytechnique Montréal** and **Mila Québec AI institute**, working at the intersection of fundamental AI and Neuroscience. 
 
 ## 🧠 About me
-I have 4 years of experience in artificial intelligence, with hands-on exposure to a wide range of subfields. My work has been applied to **climate change**, **neuroscience**, and the **medical field**, where I bring state-of-the-art AI research to domain specific challenges.
+I have **4 years** of experience in **artificial intelligence**, with hands-on exposure to a wide range of subfields. My work has been applied to **climate change**, **neuroscience**, and the **medical field**, where I bring state-of-the-art AI research to domain specific challenges.
 
 I'm currently looking to support **startups**, and **companies** in applied AI, climate change, neuroscience, or healthcare - and open to **internships** at leading industry, and academic research centers.
 
@@ -21,6 +21,6 @@ I'm currently looking to support **startups**, and **companies** in applied AI, 
 I love traveling, discovering new cultures, and everything related to racing 🏎️
 
 ## 📬 Contact
-📫 You can reach me @ jean-sebastien.giroux@mila.quebec
-🌐 My personal website is available @ [website](https://jeansebastiengiroux.com/)
-🤝 Connect @ [LinkedIn](https://www.linkedin.com/in/jeansebgiroux/)
+📫 You can reach me @ jean-sebastien.giroux@mila.quebec  
+🌐 My personal website is available @ [website](https://jeansebastiengiroux.com/)  
+🤝 Connect @ [LinkedIn](https://www.linkedin.com/in/jeansebgiroux/)  
