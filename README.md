@@ -18,10 +18,10 @@ I'm currently looking to support **startups**, and **companies** in applied AI, 
 ---
 
 ## 💼 Experience
-- Graduate Student @ Polytechnique Montréal and Mila - Québec AI institute......(May 2026 to Present)
-- Applied Deep Learning Lead Scientist @ Environment and Climate Change Canada..(Sep 2023 to Sep 2026)
-- Business Development Lead @ Chemia Discovery..................................(Apr 2025 - Jun 2025)
-- AI Research intern @ GRAMS Sherbrooke University..............................(Jan 2023 - Apr 2023)
+- Graduate Student @ Polytechnique Montréal and Mila - Québec AI institute (May 2026 to Present)
+- Applied Deep Learning Lead Scientist @ Environment and Climate Change Canada (Sep 2023 to Sep 2026)
+- Business Development Lead @ Chemia Discovery (Apr 2025 - Jun 2025)
+- AI Research intern @ GRAMS Sherbrooke University (Jan 2023 - Apr 2023)
 
 ---
 
